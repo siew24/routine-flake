@@ -1,0 +1,9 @@
+# The AppImage itself is fetched by Nix from sources.json, never committed.
+Routine.AppImage
+squashfs-root/
+
+result
+result-*
+
+.direnv/
+.backup-pre-claude-*
