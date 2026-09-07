@@ -1,7 +1,7 @@
 {
   "x86_64-linux": {
-    "version": "2.2.1",
+    "version": "2.3.0",
     "url": "https://releases.routine.co/routine/linux/Routine.AppImage",
-    "sha256": "sha256-9YBw/X2IqFrRfSX3pE/+ucQhhoVxioBr5nCR3TkG6M0="
+    "sha256": "sha256-arouhB9Aj8BiCl2WFcI+NvVFmlMy13FXzcNONV8w0lM="
   }
 }
